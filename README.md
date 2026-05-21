@@ -1,4 +1,4 @@
-# Juntong Lai
+# Juntong Lai, PhD
 
 Postdoctoral Research Associate (PDRA) · INSIGNEO Institute for in silico Medicine · University of Sheffield
 
