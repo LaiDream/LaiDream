@@ -22,6 +22,7 @@ I am an early-career researcher working at the interface of **mathematical model
 **[1]** **Lai J**, Lacroix D (2026).
 *A computational study of adiposity-associated factors in the inflammatory process of osteoarthritis.*
 **Journal of Theoretical Biology**, 625: 112429.
+[https://doi.org/10.1016/j.jtbi.2026.112429](https://doi.org/10.1016/j.jtbi.2026.112429)
 
 **[2]** **Lai J**, Lacroix D (2025).
 *Mathematical modelling of inflammatory process and obesity in osteoarthritis.*
@@ -37,7 +38,7 @@ I am an early-career researcher working at the interface of **mathematical model
 
 ## Affiliation
 
-**University of Sheffield** — School of Mechanical, Aerospace and Civil Engineering  
+**University of Sheffield** — School of Mechanical, Aerospace and Civil Engineering
 **INSIGNEO Institute for in silico Medicine** — a multidisciplinary research institute of 260+ academics and clinicians pioneering computational approaches to healthcare
 
 ---
