@@ -4,6 +4,7 @@ Postdoctoral Research Associate (PDRA) · INSIGNEO Institute for in silico Medic
 
 [![Website](https://img.shields.io/badge/Website-JuntongLai.site-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://juntonglai.site/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--5488--8619-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-5488-8619)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Juntong%20Lai-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.co.uk/citations?user=XUMoKtsAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JuntongLai-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/juntonglai)
 [![Profile Views](https://komarev.com/ghpvc/?username=JuntongLai&label=Views&color=orange&style=flat-square&abbreviated=true)](https://github.com/JuntongLai)
 
@@ -15,30 +16,13 @@ I am an early-career researcher working at the interface of **mathematical model
 
 ---
 
-## Selected Publications
+## Datasets & Tools
 
-> Full list on [ORCID](https://orcid.org/0009-0009-5488-8619) · [personal website](https://juntonglai.site/)
+> More on [GitHub](https://github.com/JuntongLai?tab=repositories) · [ORCID](https://orcid.org/0009-0009-5488-8619) · [personal website](https://juntonglai.site/)
 
-**[1]** **Lai J**, Lacroix D (2026).
-*A computational study of adiposity-associated factors in the inflammatory process of osteoarthritis.*
-**Journal of Theoretical Biology**, 625: 112429.
-[https://doi.org/10.1016/j.jtbi.2026.112429](https://doi.org/10.1016/j.jtbi.2026.112429)
+### [MCD-OA](https://github.com/JuntongLai/MCD-OA)
 
-**[2]** **Lai J**, Lacroix D (2025).
-*Mathematical modelling of inflammatory process and obesity in osteoarthritis.*
-**PLOS ONE**, 20(6): e0323258.
-[https://doi.org/10.1371/journal.pone.0323258](https://doi.org/10.1371/journal.pone.0323258)
-
-**[3]** **Lai J**, Tomlinson J, Breakwell L, Lacroix D (2025).
-*A finite element study of the effect of cross-link stabilisation in a lumbar spine tumour model.*
-**Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine**.
-[https://doi.org/10.1177/09544119251348279](https://doi.org/10.1177/09544119251348279)
-
----
-
-## Affiliation
-
-**University of Sheffield** — School of Mechanical, Aerospace and Civil Engineering
-**INSIGNEO Institute for in silico Medicine** — a multidisciplinary research institute of 260+ academics and clinicians pioneering computational approaches to healthcare
+A **mechanobiological cartilage degeneration framework for osteoarthritis** that couples mechanical loading with biological inflammatory processes in a multi-scale model. Underpins my work on obesity-associated inflammation- and loading-driven cartilage degeneration in knee osteoarthritis.
+`GPL-3.0`
 
 ---
